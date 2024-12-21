@@ -1,0 +1,10 @@
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\bin\Debug\MyFirstModule.exe.config
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\bin\Debug\MyFirstModule.exe
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\bin\Debug\MyFirstModule.pdb
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.csproj.AssemblyReference.cache
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.Form1.resources
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.Properties.Resources.resources
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.csproj.GenerateResource.cache
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.csproj.CoreCompileInputs.cache
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.exe
+C:\Users\ctomi\source\repos\MyFirstModule\MyFirstModule\obj\Debug\MyFirstModule.pdb
